@@ -12,3 +12,7 @@ h1,
 h3 {
   color: #395144;
 }
+
+.radius {
+  border-radius: 100%;
+}
