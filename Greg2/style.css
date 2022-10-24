@@ -19,8 +19,16 @@ h1 {
   background-color: blue;
   height: 200px;
   width: 200px;
+  position: relative;
+  bottom: 50px;
+  left: 50px;
 }
 
 .mout {
   display: block;
+}
+.img {
+  position: absolute;
+  left: 300px;
+  background-color: red;
 }

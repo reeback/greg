@@ -1,0 +1,16 @@
+.greg {
+  border: 1px solid;
+  padding: 0;
+  margin: 0;
+  position: fixed;
+  background-color: white;
+}
+
+body {
+  margin: 0;
+}
+.div {
+  position: relative;
+  background-color: blue;
+  height: 100px;
+}
