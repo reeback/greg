@@ -1,9 +1,11 @@
 .top {
   background-color: #eff7d3;
-  padding: 20px;
+  position: relative;
+  padding-top: 100px;
 }
 body {
   margin: 0px;
+  text-align: center;
 }
 h1 {
   margin: 0px;
@@ -23,12 +25,12 @@ h1 {
   bottom: 50px;
   left: 50px;
 }
-
-.mout {
-  display: block;
-}
-.img {
+.img-cloud {
   position: absolute;
-  left: 300px;
-  background-color: red;
+  top: 25px;
+  right: 175px;
+}
+
+.img-cloud2 {
+  position: absolute;
 }
