@@ -1,11 +1,13 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .top {
   background-color: #eff7d3;
   position: relative;
   padding-top: 100px;
-}
-body {
-  margin: 0px;
-  text-align: center;
 }
 h1 {
   margin: 0px;
