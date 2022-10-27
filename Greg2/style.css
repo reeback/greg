@@ -10,23 +10,21 @@ body {
   padding-top: 100px;
 }
 h1 {
+  font-size: 90px;
   margin: 0px;
+  color: #66bfbf;
+  line-height: 2;
+}
+h2 {
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: normal;
 }
 
-.middle-container {
-  background-color: red;
-  height: 200px;
-  width: 200px;
+h3 {
+  color: #11999e;
 }
 
-.bottom-container {
-  background-color: blue;
-  height: 200px;
-  width: 200px;
-  position: relative;
-  bottom: 50px;
-  left: 50px;
-}
 .img-cloud {
   position: absolute;
   top: 25px;
@@ -35,4 +33,21 @@ h1 {
 
 .img-cloud2 {
   position: absolute;
+}
+
+.greg {
+  border-radius: 100%;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  line-height: 2;
+}
+.skill-row p {
+  text-align: left;
+}
+.computre {
+  width: 25%;
+  float: left;
+  padding-right: 20px;
 }
