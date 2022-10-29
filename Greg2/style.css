@@ -19,6 +19,7 @@ h2 {
   font-size: 2.5rem;
   color: #66bfbf;
   font-weight: normal;
+  padding-bottom: 10px;
 }
 
 h3 {
@@ -50,4 +51,31 @@ h3 {
   width: 25%;
   float: left;
   padding-right: 20px;
+}
+
+p {
+  color: #40514e;
+}
+
+.middle-container {
+  padding: 100px 0;
+}
+
+hr {
+  width: 50px;
+  border-style: dashed;
+  color: #666;
+}
+
+.mou {
+  max-width: 100%;
+}
+
+a {
+  padding: 10px;
+}
+
+a:host,
+a:visited {
+  color: #000;
 }
