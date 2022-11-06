@@ -1,7 +1,23 @@
+body {
+  font-family: "Open Sans", Verdana, Arial, sans-serif;
+}
+
 .navbar-expand .navbar-nav .nav-link {
   color: #fff;
 }
 
 .navbar-expand .navbar-nav .nav-link:hover {
   color: #ccc;
+}
+
+.back {
+  background-color: #bc1622;
+  height: 100px;
+}
+.navbar {
+  padding: 0;
+}
+
+h1 {
+  font-weight: bold;
 }
