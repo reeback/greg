@@ -11,8 +11,9 @@ body {
 }
 
 .back {
-  background-color: #bc1622;
+  background-color: #000;
   height: 100px;
+  background-position: ;
 }
 .navbar {
   padding: 0;
