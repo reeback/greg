@@ -12,15 +12,6 @@ body {
 
 .back {
   background-color: #000;
-  height: 150px;
-}
-
-.back .container {
-  width: 100%;
-  height: 350px;
-  background-image: url("gl.svg");
-  background-repeat: no-repeat;
-  bac
 }
 
 .navbar {
@@ -29,4 +20,10 @@ body {
 
 h1 {
   font-weight: bold;
+}
+
+.gl {
+  background-image: url("gl.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
