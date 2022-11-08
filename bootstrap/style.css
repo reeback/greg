@@ -12,9 +12,17 @@ body {
 
 .back {
   background-color: #000;
-  height: 100px;
-  background-position: ;
+  height: 150px;
 }
+
+.back .container {
+  width: 100%;
+  height: 350px;
+  background-image: url("gl.svg");
+  background-repeat: no-repeat;
+  bac
+}
+
 .navbar {
   padding: 0;
 }
