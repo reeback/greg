@@ -11,7 +11,7 @@ body {
 }
 
 .back {
-  background-color: #000;
+  background-color: #bc1622;
 }
 
 .navbar {
@@ -25,5 +25,8 @@ h1 {
 .gl {
   background-image: url("gl.svg");
   background-repeat: no-repeat;
-  background-size: cover;
+
+  object-fit: cover;
+  background-position-y: -120px;
+  background: fixed;
 }
